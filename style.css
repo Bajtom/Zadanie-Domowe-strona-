@@ -1,6 +1,6 @@
 header {
 	background-color: #B0E0E6;
-	color: #7FFF00;
+	color: #006400;
 	padding: 20px;
 	text-align: center;
 }
@@ -14,7 +14,7 @@ nav li {
 	margin: 0 10px;
 }
 nav a {
-	color: #fff;
+	color: #006400;
 	text-decoration: none;
 }
 main {
